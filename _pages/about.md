@@ -39,7 +39,8 @@ My research interests lie in computer vision(CV) and human computer interaction(
 Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L. Glassman, Toby Jia-Jun Li
 
 The ACM Conference on Human Factors in Computing Systems (CHI),2023.
-
+</div>
+</div>
 
 
 # 🎖 Selected Awards
