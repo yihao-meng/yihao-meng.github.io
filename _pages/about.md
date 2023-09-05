@@ -31,7 +31,7 @@ My research interests lie in computer vision(CV) and human computer interaction(
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/截屏2023-09-05 15.02.48.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/截屏2023-09-05 15.02.48.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis](https://dl.acm.org/doi/abs/10.1145/3544548.3581352)
