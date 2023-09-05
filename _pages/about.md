@@ -25,7 +25,7 @@ My research interests lie in computer vision(CV) and human computer interaction(
 # 🔥 News
 - *Aug 2023* I started my Ph.D. journey
 - *Jun. 2023*: I graduated from XJTU
-- *2023.4*: I was awarded <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)<a> 1
+- *2023.4*: I was awarded <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)</a> !
 - *Jan 2023* Our paper "PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis" was accepted by CHI 2023
 - *Jun-Oct. 2022*: I visited at The University of Notre Dame(ND), supervised by <a href='https://toby.li/'>Toby Li</a>
 
