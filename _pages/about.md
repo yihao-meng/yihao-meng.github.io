@@ -31,17 +31,14 @@ My research interests lie in computer vision(CV) and human computer interaction(
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/截屏2023-09-05 15.02.48.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis](https://dl.acm.org/doi/abs/10.1145/3544548.3581352)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L. Glassman, Toby Jia-Jun Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+The ACM Conference on Human Factors in Computing Systems (CHI)
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
