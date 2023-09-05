@@ -38,9 +38,9 @@ My research interests lie in computer vision(CV) and human computer interaction(
 
 Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L. Glassman, Toby Jia-Jun Li
 
-The ACM Conference on Human Factors in Computing Systems (CHI)
+The ACM Conference on Human Factors in Computing Systems (CHI),2023.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Selected Awards
 - *2023* RedBird PhD Award of HKUST
