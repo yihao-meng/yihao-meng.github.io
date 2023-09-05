@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yihao Meng"
-description              : ''
-repository               : "xjtu-myh/mjtu-myh.github.io"
+description              : 'personal website for Yihao Meng'
+repository               : "xjtu-myh/xjtu-myh.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yihao Meng"
-  avatar           : './images/%E6%88%AA%E5%B1%8F2023-09-05%2019.18.24.png'
+  avatar           : 'images/%E6%88%AA%E5%B1%8F2023-09-05%2019.18.24.png'
   bio              : "Ph.D. in HKUST"
   location         : "Hong Kong"
   employer         :
