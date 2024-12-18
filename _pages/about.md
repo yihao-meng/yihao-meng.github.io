@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Nice to meet you! I am Yihao Meng (蒙祎昊), currently a second year Ph.D. student in HKUST <a href='http://vis.cse.ust.hk/'>VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023.
 
-My research interests lie in controllable video generation and 3d generation.
+My research interests lie in controllable video generation and human-ai collaboration.
 
 
 
@@ -91,6 +91,7 @@ The ACM Conference on Human Factors in Computing Systems (CHI),2023.
 - <strong>*2022.6-2022.10*, The University of Notre Dame (ND)</strong>.
 
   Visiting Intern at SaNDwich Lab     Advisor:<a href='https://toby.li/'>Toby Li</a>
+
 <strong><big>Internship</big></strong>
 - <strong>*2024.6 - now*, Ant Research</strong>.
   
