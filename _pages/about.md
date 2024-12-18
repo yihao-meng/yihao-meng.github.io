@@ -59,7 +59,7 @@ Under review.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/patat' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/patat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis](https://dl.acm.org/doi/abs/10.1145/3544548.3581352)
