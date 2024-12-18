@@ -50,7 +50,7 @@ Under review.
 
 [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://animate-your-word.github.io/demo/)
 
-Zichen Liu\*, **Yihao Meng\* (co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
+Zichen Liu\*, **Yihao Meng\* (joint-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
 Under review.
 </div>
