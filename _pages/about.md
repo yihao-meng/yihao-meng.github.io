@@ -95,3 +95,4 @@ The ACM Conference on Human Factors in Computing Systems (CHI),2023.
 <strong><big>Internship</big></strong>
 - <strong>*2024.6 - now*, Ant Research</strong>.
   
+  Research Intern at the vision group of Interactive Intelligence Lab.
