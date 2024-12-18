@@ -56,16 +56,6 @@ Under review.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dynamic_typography.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://arxiv.org/abs/2404.11614)
-
-Zichen Liu\*, **Yihao Meng\***, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
-
-Under review.
-</div>
-</div>
 
 
 
