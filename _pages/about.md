@@ -41,7 +41,17 @@ My research interests lie in controllable video generation and human-ai collabor
 
 **Yihao Meng**, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu
 
+
 CVPR 2025.
+
+
+<a href="https://arxiv.org/abs/2412.14173" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+      
+       
+<a href="https://yihao-meng.github.io/AniDoc_demo/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+<a href="https://github.com/ant-research/AniDoc"><img src="https://img.shields.io/github/stars/ant-research/AniDoc?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
+
 </div>
 </div>
 
@@ -54,6 +64,18 @@ CVPR 2025.
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
 Under review.
+
+      <a href="https://arxiv.org/abs/2404.11614" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+      
+       
+      <a href="https://animate-your-word.github.io/demo/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      
+      
+      
+       
+      <a href="https://github.com/zliucz/animate-your-word"><img src="https://img.shields.io/github/stars/zliucz/animate-your-word?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
+      
 </div>
 </div>
 
