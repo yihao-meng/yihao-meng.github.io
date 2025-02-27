@@ -37,7 +37,7 @@ My research interests lie in controllable video generation and human-ai collabor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/anidoc.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h3> AniDoc: Animation Creation Made Easier</h3> 
+<h2> AniDoc: Animation Creation Made Easier</h2> 
 
 **Yihao Meng**, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu
 
@@ -60,7 +60,7 @@ My research interests lie in controllable video generation and human-ai collabor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dynamic_typography.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h3>Dynamic Typography: Bringing Text to Life via Video Diffusion Prior<h3>
+<h2>Dynamic Typography: Bringing Text to Life via Video Diffusion Prior</h2>
 
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
@@ -85,7 +85,7 @@ Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/patat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h3>PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis<h3>
+<h2>PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis</h2>
 
 Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L. Glassman, Toby Jia-Jun Li
 
