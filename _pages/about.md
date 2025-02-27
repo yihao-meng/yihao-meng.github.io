@@ -33,14 +33,14 @@ My research interests lie in controllable video generation and human-ai collabor
 - *Jun-Oct. 2022*: I visited at The University of Notre Dame(ND), supervised by <a href='https://toby.li/'>Toby Li</a>.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/anidoc.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/anidoc.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AniDoc: Animation Creation Made Easier](https://yihao-meng.github.io/AniDoc_demo/)
 
 **Yihao Meng**, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu
 
-Under review.
+CVPR 2025.
 </div>
 </div>
 
