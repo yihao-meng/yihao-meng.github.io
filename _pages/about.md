@@ -46,11 +46,8 @@ My research interests lie in controllable video generation and human-ai collabor
 </div>
 
   <p>
-    <a href="https://arxiv.org/abs/2412.14173">paper</a> | <a href="https://github.com/ant-research/AniDoc">project</a> |  <a class="github-link" 
-    data-owner="ant-research" 
-    data-repo="AniDoc"
-    href="https://github.com/ant-research/AniDoc" target="_blank">
-    code (<span class="star-count">0</span> <span class="star">★</span>) </a>
+    <a href="https://arxiv.org/abs/2412.14173">paper</a> | <a href="https://github.com/ant-research/AniDoc">project</a> |  
+    <a href="https://github.com/ant-research/AniDoc"><img src="https://img.shields.io/github/stars/ant-research/AniDoc?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
   </p>
 
  <!-- <div class="links">
@@ -79,11 +76,8 @@ Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao
 
 
   <p>
-    <a href="https://arxiv.org/abs/2404.11614">paper</a> | <a href="https://animate-your-word.github.io/demo/">project</a> |  <a class="github-link" 
-    data-owner="zliucz" 
-    data-repo="animate-your-word"
-    href="https://github.com/zliucz/animate-your-word" target="_blank">
-    code (<span class="star-count">0</span> <span class="star">★</span>) </a>
+    <a href="https://arxiv.org/abs/2404.11614">paper</a> | <a href="https://animate-your-word.github.io/demo/">project</a> |  
+    <a href="https://github.com/zliucz/animate-your-word"><img src="https://img.shields.io/github/stars/zliucz/animate-your-word?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
   </p>
 
  <!-- <div class="links">
