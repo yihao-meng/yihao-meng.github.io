@@ -46,7 +46,7 @@ My research interests lie in controllable video generation and human-ai collabor
 </div>
 
   <p>
-    <a href="https://arxiv.org/abs/2412.14173">paper</a> | <a href="https://github.com/ant-research/AniDoc">project</a> |  
+    <a href="https://arxiv.org/abs/2412.14173">paper</a> | <a href="https://yihao-meng.github.io/AniDoc_demo/">project</a> |  
     <a href="https://github.com/ant-research/AniDoc"><img src="https://img.shields.io/github/stars/ant-research/AniDoc?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
   </p>
 
