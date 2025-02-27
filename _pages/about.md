@@ -44,14 +44,23 @@ My research interests lie in controllable video generation and human-ai collabor
 
 <div class="periodical"><em>CVPR 2025</em>
 </div>
- <div class="links">
+
+  <p>
+    <a href="https://arxiv.org/abs/2412.14173">paper</a> | <a href="https://github.com/ant-research/AniDoc">project</a> |  <a class="github-link" 
+    data-owner="ant-research" 
+    data-repo="AniDoc"
+    href="https://github.com/ant-research/AniDoc" target="_blank">
+    code (<span class="star-count">0</span> <span class="star">★</span>) </a>
+  </p>
+
+ <!-- <div class="links">
        
 <a href="https://arxiv.org/abs/2412.14173" class="btn btn-sm btn-light z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 
 <a href="https://yihao-meng.github.io/AniDoc_demo/" class="btn btn-sm btn-light z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
 
 <a href="https://github.com/ant-research/AniDoc"><img src="https://img.shields.io/github/stars/ant-research/AniDoc?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
- </div>
+ </div> -->
 
 
 </div>
@@ -69,7 +78,15 @@ Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao
 </div>
 
 
- <div class="links">
+  <p>
+    <a href="https://arxiv.org/abs/2404.11614">paper</a> | <a href="https://animate-your-word.github.io/demo/">project</a> |  <a class="github-link" 
+    data-owner="zliucz" 
+    data-repo="animate-your-word"
+    href="https://github.com/zliucz/animate-your-word" target="_blank">
+    code (<span class="star-count">0</span> <span class="star">★</span>) </a>
+  </p>
+
+ <!-- <div class="links">
 <a href="https://arxiv.org/abs/2404.11614" class="btn btn-sm btn-light z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
       
@@ -78,7 +95,9 @@ Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao
       
       
 <a href="https://github.com/zliucz/animate-your-word"><img src="https://img.shields.io/github/stars/zliucz/animate-your-word?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
-      </div>
+      </div> -->
+
+
 </div>
 </div>
 
