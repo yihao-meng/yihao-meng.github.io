@@ -65,7 +65,9 @@ My research interests lie in controllable video generation and human-ai collabor
 
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
-Under review.
+<div class="periodical"><em>Arxiv</em>
+</div>
+
 
  <div class="links">
 <a href="https://arxiv.org/abs/2404.11614" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
