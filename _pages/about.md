@@ -42,8 +42,8 @@ My research interests lie in controllable video generation and human-ai collabor
 **Yihao Meng**, Hao Ouyang, Hanlin Wang, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Zhiheng Liu, Yujun Shen, Huamin Qu
 
 
-CVPR 2025.
-
+<div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)</em>
+</div>
  <div class="links">
        
 <a href="https://arxiv.org/abs/2412.14173" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -75,8 +75,6 @@ Under review.
 <a href="https://animate-your-word.github.io/demo/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       
       
-      
-       
 <a href="https://github.com/zliucz/animate-your-word"><img src="https://img.shields.io/github/stars/zliucz/animate-your-word?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
       </div>
 </div>
@@ -92,7 +90,9 @@ Under review.
 
 Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L. Glassman, Toby Jia-Jun Li
 
-The ACM Conference on Human Factors in Computing Systems (CHI),2023.
+<div class="periodical"><em>The ACM Conference on Human Factors in Computing Systems (CHI),2023</em>
+</div>
+
 </div>
 </div>
 
