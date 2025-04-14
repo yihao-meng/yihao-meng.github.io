@@ -97,10 +97,10 @@ Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L
 
 
 # 🎖 Selected Awards
-- *2023* RedBird PhD Award of HKUST
-- *2023.4* <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)<a> 
-- *2022* First Prize in China Robot Competition 
-- *2020* China National Schloarship(Top 1%)
+- RedBird PhD Award of HKUST
+- <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)<a> 
+- First Prize in China Robot Competition 
+- **China National Schloarship(Top 1%)**
 
 # 📖 Experience
 <strong><big>Education</big></strong>
