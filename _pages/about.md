@@ -23,7 +23,7 @@ My research interests lie in controllable video generation and human-ai collabor
 
 
 # 🔥 News
-- *June 26, 2025*: Two papers has  been accepted by ICCV 2025! See you in Hawaii!
+- *June 26, 2025*: Two papers have been accepted by ICCV 2025! See you in Hawaii!
 - *Feb 27, 2025*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been accepted by CVPR 2025!
 - *Dec 19, 2024*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been released. Code and demo available at <a href="https://yihao-meng.github.io/AniDoc_demo/">here</a>.
 - *June 2024*: I joined Ant Group as a research intern, mentored by <a href="https://shenyujun.github.io/">Yujun Shen</a>  and <a href="https://ken-ouyang.github.io/">Hao Ouyang</a> .
