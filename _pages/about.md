@@ -23,6 +23,7 @@ My research interests lie in controllable video generation and human-ai collabor
 
 
 # 🔥 News
+- *June 26, 2025*: Two papers has  been accepted by ICCV 2025! See you in Hawaii!
 - *Feb 27, 2025*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been accepted by CVPR 2025!
 - *Dec 19, 2024*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been released. Code and demo available at <a href="https://yihao-meng.github.io/AniDoc_demo/">here</a>.
 - *June 2024*: I joined Ant Group as a research intern, mentored by <a href="https://shenyujun.github.io/">Yujun Shen</a>  and <a href="https://ken-ouyang.github.io/">Hao Ouyang</a> .
@@ -34,6 +35,29 @@ My research interests lie in controllable video generation and human-ai collabor
 - *Jun-Oct. 2022*: I visited at The University of Notre Dame(ND), supervised by <a href='https://toby.li/'>Toby Li</a>.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/long-animation-model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2>LongAnimation: Long Animation Generation with Dynamic Global-Local
+Memory</h2>
+
+Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
+
+<div class="periodical"><em>ICCV 2025</em>
+</div>
+
+
+  <!-- <p>
+    <a href="https://arxiv.org/abs/2404.11614">paper</a> | <a href="https://animate-your-word.github.io/demo/">project</a> |  
+    <a href="https://github.com/zliucz/animate-your-word"><img src="https://img.shields.io/github/stars/zliucz/animate-your-word?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
+  </p> -->
+
+
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/anidoc.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,14 +81,14 @@ My research interests lie in controllable video generation and human-ai collabor
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/dynamic_typography.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/dynamic_typography.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>Dynamic Typography: Bringing Text to Life via Video Diffusion Prior</h2>
 
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
-<div class="periodical"><em>Arxiv</em>
+<div class="periodical"><em>ICCV 2025</em>
 </div>
 
 
