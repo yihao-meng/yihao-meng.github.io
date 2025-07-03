@@ -46,6 +46,12 @@ Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
 <div class="periodical"><em>ICCV 2025</em>
 </div>
 
+  <p>
+    <a href="https://arxiv.org/abs/2507.01945">paper</a> | <a href="https://cn-makers.github.io/long_animation_web/
+    ">project</a> |  <a href="https://github.com/CN-makers/LongAnimation">code </a> 
+    <!-- <a href="https://github.com/ant-research/AniDoc"><img src=" https://github.com/CN-makers/LongAnimation" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a> -->
+  </p>
+
 
   <!-- <p>
     <a href="https://arxiv.org/abs/2404.11614">paper</a> | <a href="https://animate-your-word.github.io/demo/">project</a> |  
@@ -144,4 +150,4 @@ Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L
 <strong><big>Internship</big></strong>
 - <strong>*2024.6 - now*, Ant Research</strong>.
   
-  Research Intern at the vision group of Interactive Intelligence Lab.
+  Research Intern at the vision group of Interactive Intelligence Lab.  
