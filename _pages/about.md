@@ -23,7 +23,7 @@ My research interests lie in controllable video generation and human-ai collabor
 
 
 # 🔥 News
-- *June 26, 2025*: Our paper Dynamic Typography has been selected as Oral Presentation in ICCV 2025!
+- *June 26, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Oral</span>  in ICCV 2025!
 - *June 26, 2025*: Two papers have been accepted by ICCV 2025! See you in Hawaii!
 - *Feb 27, 2025*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been accepted by CVPR 2025!
 - *Dec 19, 2024*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been released. Code and demo available at <a href="https://yihao-meng.github.io/AniDoc_demo/">here</a>.
@@ -95,7 +95,7 @@ Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
 
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
-<div class="periodical"><em>ICCV 2025  <span style="color: red; font-weight: bold;">Oral Presentation</span></em>
+<div class="periodical"><em>ICCV 2025  <span style="color: red; font-weight: bold;">Oral</span></em>
 </div>
 
 
