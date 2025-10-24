@@ -23,6 +23,8 @@ My research interests lie in controllable video generation and human-ai collabor
 
 
 # 🔥 News
+- *Oct 23, 2025*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been released. Code and demo available at <a href="https://holo-cine.github.io/">here</a>.
+- *Sep 23, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Best Papar Finalist</span>  in ICCV 2025!
 - *June 26, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Oral</span>  in ICCV 2025!
 - *June 26, 2025*: Two papers have been accepted by ICCV 2025! See you in Hawaii!
 - *Feb 27, 2025*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been accepted by CVPR 2025!
@@ -36,6 +38,29 @@ My research interests lie in controllable video generation and human-ai collabor
 - *Jun-Oct. 2022*: I visited at The University of Notre Dame(ND), supervised by <a href='https://toby.li/'>Toby Li</a>.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/holocine.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2>HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</h2> 
+
+**Yihao Meng**, Hao Ouyang, Yue yu, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Hanlin Wang, Yixuan Li, Cheng Chen, Yanhong Zeng, Yujun Shen, Huamin Qu
+
+
+<div class="periodical"><em>arxiv</em>
+</div>
+
+  <p>
+    <a href="https://github.com/yihao-meng/HoloCine/blob/main/teaser.png">paper</a> | <a href="https://holo-cine.github.io/">project</a> |  
+    <a href="https://github.com/yihao-meng/HoloCine"><img src="https://img.shields.io/github/stars/yihao-meng/HoloCine?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
+  </p>
+
+
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/long-animation-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +75,7 @@ Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
   <p>
     <a href="https://arxiv.org/abs/2507.01945">paper</a> | <a href="https://cn-makers.github.io/long_animation_web/
     ">project</a> |  <a href="https://github.com/CN-makers/LongAnimation">code </a> 
-    <!-- <a href="https://github.com/ant-research/AniDoc"><img src=" https://github.com/CN-makers/LongAnimation" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a> -->
+    <a href="https://github.com/CN-makers/LongAnimation"><img src="https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
   </p>
 
 
@@ -95,7 +120,7 @@ Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
 
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
-<div class="periodical"><em>ICCV 2025  <span style="color: red; font-weight: bold;">Oral</span></em>
+<div class="periodical"><em>ICCV 2025  <span style="color: red; font-weight: bold;">Best Paper Finalist</span></em>
 </div>
 
 
