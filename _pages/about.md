@@ -24,7 +24,7 @@ My research interests lie in controllable video generation and human-ai collabor
 
 # 🔥 News
 - *Oct 23, 2025*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been released. Code and demo available at <a href="https://holo-cine.github.io/">here</a>.
-- *Sep 23, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Best Papar Finalist</span>  in ICCV 2025!
+- *Sep 23, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Best Paper Finalist</span>  in ICCV 2025!
 - *June 26, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Oral</span>  in ICCV 2025!
 - *June 26, 2025*: Two papers have been accepted by ICCV 2025! See you in Hawaii!
 - *Feb 27, 2025*: Our paper <a href="https://yihao-meng.github.io/AniDoc_demo/">AniDoc: Animation Creation Made Easier</a>   has  been accepted by CVPR 2025!
