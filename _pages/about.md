@@ -51,7 +51,7 @@ My research interests lie in controllable video generation and human-ai collabor
 </div>
 
   <p>
-    <a href="https://github.com/yihao-meng/HoloCine/blob/main/teaser.png">paper</a> | <a href="https://holo-cine.github.io/">project</a> |  
+    <a href="https://arxiv.org/abs/2510.20822">paper</a> | <a href="https://holo-cine.github.io/">project</a> |  
     <a href="https://github.com/yihao-meng/HoloCine"><img src="https://img.shields.io/github/stars/yihao-meng/HoloCine?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
   </p>
 
