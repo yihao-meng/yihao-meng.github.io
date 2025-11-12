@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Nice to meet you! I am Yihao Meng (蒙祎昊), currently a second year Ph.D. student in HKUST <a href='http://vis.cse.ust.hk/'>VisLab</a>, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023.
 
-My research interests lie in controllable video generation and human-ai collaboration.
+My research interests lie in video generation and world model.
 
 
 
