@@ -99,7 +99,7 @@ Hanlin Wang, Hao Ouyang, Qiuyu Wang, Yue Yu, **Yihao Meng**, Wen Wang, Ka Leong 
 </div>
 
   <p>
-    <a href="https://arxiv.org/abs/2512.16924">paper</a> | <a href="https://worldcanvas.github.io/">project</a> |  <a href="https://github.com/pPetrichor/WorldCanvas">code</a> |  
+    <a href="https://arxiv.org/abs/2512.16924">paper</a> | <a href="https://worldcanvas.github.io/">project</a> |  <a href="https://github.com/pPetrichor/WorldCanvas">code</a> 
   </p>
 
 
