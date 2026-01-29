@@ -40,7 +40,7 @@ My research interests lie in video generation and world model.
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/lingbot_1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">technical report</div><img src='images/lingbot_1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>LingBot-World: An open frontier for world models.</h2> 
@@ -63,7 +63,7 @@ Robbyant Team.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/holocine.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/holocine.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</h2> 
@@ -86,7 +86,7 @@ Robbyant Team.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Tex</h2> 
