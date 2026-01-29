@@ -52,7 +52,7 @@ Robbyant Team.
 </div>
 
   <p>
-    <a href="https://arxiv.org/abs/2601.205402">paper</a> | <a href="https://technology.robbyant.com/lingbot-world">project</a> |  
+    <a href="https://arxiv.org/abs/2601.20540">paper</a> | <a href="https://technology.robbyant.com/lingbot-world">project</a> |  
     <a href="https://github.com/Robbyant/lingbot-world"><img src="https://img.shields.io/github/stars/Robbyant/lingbot-world?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
   </p>
 
