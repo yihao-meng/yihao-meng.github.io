@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Nice to meet you! I am Yihao Meng (蒙祎昊), currently a second year Ph.D. student in HKUST, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023.
+Nice to meet you! I am Yihao Meng (蒙祎昊), currently a second year Ph.D. student in HKUST, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023. My research is supported by the prestigious <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme</a>.
 
 My research interests lie in video generation and world model.
 
 
 
 # 🔥 News
+- *Oct 23, 2025*: We release <a href="https://technology.robbyant.com/lingbot-world">LingBot-World</a>, a top-tier open-source world model.
 - *Oct 23, 2025*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been released. Code and demo available at <a href="https://holo-cine.github.io/">here</a>.
 - *Sep 23, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Best Paper Finalist</span>  in ICCV 2025!
 - *June 26, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Oral</span>  in ICCV 2025!
@@ -34,10 +35,33 @@ My research interests lie in video generation and world model.
 - *Aug 2023*: I started my Ph.D. journey! 
 - *Jun. 2023*: I graduated from XJTU.
 - *2023.4*: I was awarded <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)</a> !
-- *Jan 2023* Our paper "PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis" was accepted by CHI 2023.
-- *Jun-Oct. 2022*: I visited at The University of Notre Dame(ND), supervised by <a href='https://toby.li/'>Toby Li</a>.
+<!-- - *Jan 2023* Our paper "PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis" was accepted by CHI 2023.
+- *Jun-Oct. 2022*: I visited at The University of Notre Dame(ND), supervised by <a href='https://toby.li/'>Toby Li</a>. -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/lingbot_1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2>LingBot-World: An open frontier for world models.</h2> 
+
+Robbyant Team.
+
+
+<div class="periodical"><em>technical report</em>
+</div>
+
+  <p>
+    <a href="https://arxiv.org/abs/2601.205402">paper</a> | <a href="https://technology.robbyant.com/lingbot-world">project</a> |  
+    <a href="https://github.com/Robbyant/lingbot-world"><img src="https://img.shields.io/github/stars/Robbyant/lingbot-world?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
+  </p>
+
+
+
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/holocine.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +71,7 @@ My research interests lie in video generation and world model.
 **Yihao Meng**, Hao Ouyang, Yue yu, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Hanlin Wang, Yixuan Li, Cheng Chen, Yanhong Zeng, Yujun Shen, Huamin Qu
 
 
-<div class="periodical"><em>arxiv</em>
+<div class="periodical"><em>under review</em>
 </div>
 
   <p>
@@ -60,6 +84,30 @@ My research interests lie in video generation and world model.
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2>The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Tex</h2> 
+
+Hanlin Wang, Hao Ouyang, Qiuyu Wang, Yue Yu, **Yihao Meng**, Wen Wang, Ka Leong Cheng
+, Shuailei Ma, Qingyan Bai, Yixuan Li, Cheng Chen, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen
+
+
+<div class="periodical"><em>under review</em>
+</div>
+
+  <p>
+    <a href="https://arxiv.org/abs/2512.16924">paper</a> | <a href="https://worldcanvas.github.io/">project</a> |  <a href="https://github.com/pPetrichor/WorldCanvas">code</a> |  
+  </p>
+
+
+
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/long-animation-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,7 +186,7 @@ Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/patat.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2023</div><img src='images/patat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis</h2>
@@ -149,7 +197,7 @@ Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L
 </div>
 
 </div>
-</div>
+</div> -->
 
 
 # 🎖 Selected Awards
