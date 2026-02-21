@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Nice to meet you! I am Yihao Meng (蒙祎昊), currently a second year Ph.D. student in HKUST, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023. My research is supported by the prestigious <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme</a>.
+Nice to meet you! I am Yihao Meng (蒙祎昊), currently a third year Ph.D. student in HKUST, at the Department of Computer Science and Engineering of the Hong Kong University of Science and Technology (HKUST), supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. Before joining HKUST, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023. My research is supported by the prestigious <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme</a>.
 
 My research interests lie in video generation and world model.
 
@@ -63,7 +63,7 @@ Robbyant Team.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/holocine.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/holocine.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</h2> 
@@ -71,7 +71,7 @@ Robbyant Team.
 **Yihao Meng**, Hao Ouyang, Yue yu, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Hanlin Wang, Yixuan Li, Cheng Chen, Yanhong Zeng, Yujun Shen, Huamin Qu
 
 
-<div class="periodical"><em>under review</em>
+<div class="periodical"><em>CVPR 2026</em>
 </div>
 
   <p>
@@ -86,7 +86,7 @@ Robbyant Team.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Tex</h2> 
@@ -95,7 +95,7 @@ Hanlin Wang, Hao Ouyang, Qiuyu Wang, Yue Yu, **Yihao Meng**, Wen Wang, Ka Leong 
 , Shuailei Ma, Qingyan Bai, Yixuan Li, Cheng Chen, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen
 
 
-<div class="periodical"><em>under review</em>
+<div class="periodical"><em>arxiv</em>
 </div>
 
   <p>
