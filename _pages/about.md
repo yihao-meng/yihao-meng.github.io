@@ -122,7 +122,7 @@ Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
 
   <p>
     <a href="https://arxiv.org/abs/2507.01945">paper</a> | <a href="https://cn-makers.github.io/long_animation_web/
-    ">project</a> |  <a href="https://github.com/CN-makers/LongAnimation">code </a> 
+    ">project</a> |   
     <a href="https://github.com/CN-makers/LongAnimation"><img src="https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /></a>
   </p>
 
