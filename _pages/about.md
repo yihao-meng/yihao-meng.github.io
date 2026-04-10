@@ -23,7 +23,7 @@ My research interests lie in video generation and world model.
 
 
 # 🔥 News
-- *Apr 9, 2026*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been selected as CVPR 2026 <span style="color: red;">Highlight</span></a>.
+- *Apr 9, 2026*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been selected as CVPR 2026 <span style="color: red;">Highlight</span>.
 - *Jan 29, 2026*: We release <a href="https://technology.robbyant.com/lingbot-world">LingBot-World</a>, a top-tier open-source world model.
 - *Oct 23, 2025*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been released. Code and demo available at <a href="https://holo-cine.github.io/">here</a>.
 - *Sep 23, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Best Paper Finalist</span>  in ICCV 2025!
