@@ -23,6 +23,7 @@ My research interests lie in video generation and world model.
 
 
 # 🔥 News
+- *Apr 9, 2026*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been selected as CVPR 2026 <span style="color: red;">Highlight</span></a>.
 - *Jan 29, 2026*: We release <a href="https://technology.robbyant.com/lingbot-world">LingBot-World</a>, a top-tier open-source world model.
 - *Oct 23, 2025*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been released. Code and demo available at <a href="https://holo-cine.github.io/">here</a>.
 - *Sep 23, 2025*: Our paper Dynamic Typography has been selected as <span style="color: red;">Best Paper Finalist</span>  in ICCV 2025!
@@ -71,7 +72,7 @@ Robbyant Team.
 **Yihao Meng**, Hao Ouyang, Yue yu, Qiuyu Wang, Wen Wang, Ka Leong Cheng, Hanlin Wang, Yixuan Li, Cheng Chen, Yanhong Zeng, Yujun Shen, Huamin Qu
 
 
-<div class="periodical"><em>CVPR 2026</em>
+<div class="periodical"><em>CVPR 2026 <span style="color: red; font-weight: bold;">Highlight (2.5% acceptance rate)</span></em>
 </div>
 
   <p>
@@ -168,7 +169,7 @@ Nan Chen, Mengqi Huang, **Yihao Meng**, Zhendong Mao
 
 Zichen Liu\*, **Yihao Meng\* (Co-first author)**, Hao Ouyang, Yue Yu, Bolin Zhao, Daniel Cohen-Or, Huamin Qu
 
-<div class="periodical"><em>ICCV 2025  <span style="color: red; font-weight: bold;">Best Paper Finalist</span></em>
+<div class="periodical"><em>ICCV 2025  <span style="color: red; font-weight: bold;">Oral, Best Paper Candidate (Top 13/11239)</span></em>
 </div>
 
 
