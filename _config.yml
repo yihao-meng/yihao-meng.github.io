@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yihao Meng"
   avatar           : 'images/yihao_new.png'
-  bio              : "Ph.D. student in HKUST"
-  location         : "Hong Kong"
+  bio              : "Ph.D. student @ HKUST"
+  location         : "Bay Area, US"
   employer         :
   pubmed           : 
   email            : "ymengas@cse.ust.hk"
