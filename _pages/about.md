@@ -82,7 +82,7 @@ Robbyant Team.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<h2>The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Tex</h2> 
+<h2>The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text</h2> 
 
 Hanlin Wang, Hao Ouyang, Qiuyu Wang, Yue Yu, **Yihao Meng**, Wen Wang, Ka Leong Cheng
 , Shuailei Ma, Qingyan Bai, Yixuan Li, Cheng Chen, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen
