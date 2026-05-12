@@ -197,7 +197,7 @@ Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L
 - RedBird PhD Award of HKUST
 - <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)<a> 
 - First Prize in China Robot Competition 
-- **China National Schloarship(Top 1%)**
+- China National Schloarship(Top 1%)
 
 # 📖 Experience
 <strong><big>Education</big></strong>
@@ -207,7 +207,7 @@ Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L
   
 - <strong>*2019.09 - 2023.06*, Xi'an Jiaotong University (XJTU)</strong>.
 
-  Bachelor in Artificial Intelligence (Honor class in Qian Xuesen Honors College)
+  Bachelor in Artificial Intelligence (Honor class in Qian Xuesen College)
 
 
 <strong><big>Internship</big></strong>
