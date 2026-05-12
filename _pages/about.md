@@ -209,12 +209,11 @@ Simret Araya Gebreegziabher, Zheng Zhang, Xiaohang Tang, **Yihao Meng**, Elena L
 
   Bachelor in Artificial Intelligence (Honor class in Qian Xuesen Honors College)
 
-<strong><big>Visiting</big></strong>
-- <strong>*2022.6-2022.10*, The University of Notre Dame (ND)</strong>.
-
-  Visiting Intern at SaNDwich Lab     Advisor:<a href='https://toby.li/'>Toby Li</a>
 
 <strong><big>Internship</big></strong>
-- <strong>*2024.6 - now*, Ant Research</strong>.
+- <strong>*2026.5 - now*, NVIDIA</strong>.
   
-  Research Intern at the vision group of Interactive Intelligence Lab.  
+  Research Scientist Intern at NVIDIA Spatial Intelligence Lab.  
+- <strong>*2024.6 - 2026.5*, Ant Research</strong>.
+  
+  Research Scientist Intern at Ant Research (LingBot).  
