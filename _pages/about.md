@@ -10,7 +10,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Nice to meet you! I am Yihao Meng (蒙祎昊), currently a third-year Ph.D. student in CSE at HKUST, supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. I obtained my B.S. degree in Artificial Intelligence (Honor class) from Xi'an Jiaotong University in 2023. My research is supported by the prestigious <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme</a>.
-
 During my Ph.D., I previously interned at Ant Research (LingBot), mentored by <a href='https://ken-ouyang.github.io/'>Hao Ouyang</a> and <a href='https://shenyujun.github.io/'>Yujun Shen</a>, and I am currently a Research Scientist Intern at <a href='https://research.nvidia.com/labs/sil/'>NVIDIA</a>, led by <a href='https://scholar.google.com/citations?user=CUlqK5EAAAAJ&hl=en'>Prof. Sanja Fidler</a>.
 
 My research interests lie in video generation and world models. 
