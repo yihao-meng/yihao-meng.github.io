@@ -36,7 +36,7 @@ My research interests lie in video generation and world models.
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/causalcine.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/causalcine.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</h2> 
@@ -44,7 +44,7 @@ My research interests lie in video generation and world models.
 **Yihao Meng\***, Zichen Liu\*, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Yue Yu, Hanlin Wang, Haobo Li, Jiapeng Zhu, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen, Huamin Qu
 
 
-<div class="periodical"><em>arxiv</em>
+<div class="periodical"><em>Preprint</em>
 </div>
 
   <p>
@@ -103,7 +103,7 @@ Robbyant Team.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/world_canvas.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text</h2> 
@@ -112,7 +112,7 @@ Hanlin Wang, Hao Ouyang, Qiuyu Wang, Yue Yu, **Yihao Meng**, Wen Wang, Ka Leong 
 , Shuailei Ma, Qingyan Bai, Yixuan Li, Cheng Chen, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen
 
 
-<div class="periodical"><em>arxiv</em>
+<div class="periodical"><em>Preprint</em>
 </div>
 
   <p>
