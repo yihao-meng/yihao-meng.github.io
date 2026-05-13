@@ -36,7 +36,7 @@ My research interests lie in video generation and world models.
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/causalcine.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/causalcine_3x.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</h2> 
