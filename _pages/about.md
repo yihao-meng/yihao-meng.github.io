@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-Nice to meet you! I am Yihao Meng (蒙祎昊), currently a third-year Ph.D. student in CSE at HKUST, supervised by <a href='http://huamin.org/'>Prof. Huamin Qu</a>. I obtained my B.S. degree in Artificial Intelligence (Honor class) from Xi'an Jiaotong University in 2023. My research is supported by the prestigious <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme</a>.
+Nice to meet you! I am Yihao Meng (蒙祎昊), currently a third-year Ph.D. student in CSE at HKUST, supervised by Prof. Huamin Qu. I obtained my B.S. degree in Artificial Intelligence (Honor class) from Xi'an Jiaotong University in 2023. My research is supported by the prestigious <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme</a>.
 During my Ph.D., I previously interned at Ant Research (LingBot), mentored by <a href='https://ken-ouyang.github.io/'>Hao Ouyang</a> and <a href='https://shenyujun.github.io/'>Yujun Shen</a>, and I am currently a Research Scientist Intern at <a href='https://research.nvidia.com/labs/sil/'>NVIDIA</a>, led by <a href='https://scholar.google.com/citations?user=CUlqK5EAAAAJ&hl=en'>Prof. Sanja Fidler</a>.
 
 My research interests lie in video generation and world models. 
 
 # 🔥 News
+- *May 12, 2026*: Our paper <a href="https://holo-cine.github.io/">CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</a>   has  been released. Project page: <a href="https://yihao-meng.github.io/CausalCine/">here</a>.
+- *May 2026*: I joined NVIDIA as a Research Scientist Intern, led by <a href="https://scholar.google.com/citations?user=CUlqK5EAAAAJ&hl=en">Prof. Sanja Fidler</a>.
 - *Apr 9, 2026*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been selected as CVPR 2026 <span style="color: red;">Highlight</span>.
 - *Jan 29, 2026*: We release <a href="https://technology.robbyant.com/lingbot-world">LingBot-World</a>, a top-tier open-source world model.
 - *Oct 23, 2025*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been released. Code and demo available at <a href="https://holo-cine.github.io/">here</a>.
@@ -32,6 +34,28 @@ My research interests lie in video generation and world models.
 
 
 # 📝 Selected Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/causalcine.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2>CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</h2> 
+
+**Yihao Meng\***, Zichen Liu\*, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Yue Yu, Hanlin Wang, Haobo Li, Jiapeng Zhu, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen, Huamin Qu
+
+
+<div class="periodical"><em>arxiv</em>
+</div>
+
+  <p>
+    <a href="https://arxiv.org/abs/2605.12496">paper</a> | <a href="https://yihao-meng.github.io/CausalCine/">project</a> 
+  </p>
+
+
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">technical report</div><img src='images/lingbot_1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
