@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Yihao Meng"
-description              : 'personal website for Yihao Meng'
-repository               : "xjtu-myh/xjtu-myh.github.io"
+description              : "Yihao Meng is a Ph.D. candidate at HKUST researching video generation and world models."
+url                      : "https://yihao-meng.github.io"
+repository               : "yihao-meng/yihao-meng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yihao Meng"
   avatar           : 'images/yihao_new.png'
-  bio              : "Ph.D. student @ HKUST"
-  location         : "Bay Area, US"
+  bio              : "Ph.D. candidate at HKUST · Video Generation & World Models"
+  location         :
   employer         :
   pubmed           : 
   email            : "ymengas@cse.ust.hk"
@@ -35,14 +36,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "yihao-meng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/344/8834"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :

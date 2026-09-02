@@ -1,0 +1,190 @@
+{
+  "publications": [
+    {
+      "title": "LingBot-World-Infinity: Infinite Worlds with Versatile Interactions",
+      "authors": ["Robbyant Team (contributor)"],
+      "venue": "Technical Report, 2026",
+      "thumbnail": "images/lingbot-world-infinity-demo.mp4",
+      "media_type": "video",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2607.07534",
+        "code": "https://github.com/Robbyant/lingbot-world-v2",
+        "github": "Robbyant/lingbot-world-v2",
+        "project": "https://technology.robbyant.com/lingbot-world-v2"
+      }
+    },
+    {
+      "title": "CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives",
+      "authors": ["Yihao Meng*", "Zichen Liu*", "Hao Ouyang", "Qiuyu Wang", "Ka Leong Cheng", "Yue Yu", "Hanlin Wang", "Haobo Li", "Jiapeng Zhu", "Yanhong Zeng", "Xing Zhu", "Yujun Shen", "Qifeng Chen", "Huamin Qu"],
+      "author_note": "* Equal contribution.",
+      "venue": "Under Review, 2026",
+      "thumbnail": "images/causalcine_3x.gif",
+      "media_type": "image",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2605.12496",
+        "project": "https://yihao-meng.github.io/CausalCine/"
+      }
+    },
+    {
+      "title": "LingBot-World: An Open Frontier for World Models",
+      "authors": ["Robbyant Team (core contributor)"],
+      "venue": "Technical Report, 2026",
+      "thumbnail": "images/lingbot_1.gif",
+      "media_type": "image",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2601.20540",
+        "code": "https://github.com/Robbyant/lingbot-world",
+        "github": "Robbyant/lingbot-world",
+        "project": "https://technology.robbyant.com/lingbot-world"
+      }
+    },
+    {
+      "title": "HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives",
+      "authors": ["Yihao Meng", "Hao Ouyang", "Yue Yu", "Qiuyu Wang", "Wen Wang", "Ka Leong Cheng", "Hanlin Wang", "Yixuan Li", "Cheng Chen", "Yanhong Zeng", "Yujun Shen", "Huamin Qu"],
+      "venue": "CVPR 2026",
+      "thumbnail": "images/holocine.gif",
+      "media_type": "image",
+      "selected": 1,
+      "award": "Highlight (Top 2.5%)",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2510.20822",
+        "code": "https://github.com/yihao-meng/HoloCine",
+        "github": "yihao-meng/HoloCine",
+        "project": "https://holo-cine.github.io/"
+      }
+    },
+    {
+      "title": "Dynamic Typography: Bringing Text to Life via Video Diffusion Prior",
+      "authors": ["Zichen Liu*", "Yihao Meng*", "Hao Ouyang", "Yue Yu", "Bolin Zhao", "Daniel Cohen-Or", "Huamin Qu"],
+      "author_note": "* Equal contribution.",
+      "venue": "ICCV 2025",
+      "thumbnail": "images/dynamic_typography.gif",
+      "media_type": "image",
+      "selected": 1,
+      "award": "Oral & Best Paper Candidate",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2404.11614",
+        "code": "https://github.com/zliucz/animate-your-word",
+        "github": "zliucz/animate-your-word",
+        "project": "https://animate-your-word.github.io/demo/"
+      }
+    },
+    {
+      "title": "AniDoc: Animation Creation Made Easier",
+      "authors": ["Yihao Meng", "Hao Ouyang", "Hanlin Wang", "Qiuyu Wang", "Wen Wang", "Ka Leong Cheng", "Zhiheng Liu", "Yujun Shen", "Huamin Qu"],
+      "venue": "CVPR 2025",
+      "thumbnail": "images/anidoc.gif",
+      "media_type": "image",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2412.14173",
+        "code": "https://github.com/ant-research/AniDoc",
+        "github": "ant-research/AniDoc",
+        "project": "https://yihao-meng.github.io/AniDoc_demo/"
+      }
+    },
+    {
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "authors": ["Hanlin Wang", "Hao Ouyang", "Qiuyu Wang", "Wen Wang", "Qingyan Bai", "Ka Leong Cheng", "Yue Yu", "Yixuan Li", "Yihao Meng", "Zichen Liu", "Yanhong Zeng", "Yujun Shen", "Qifeng Chen"],
+      "venue": "Under Review, 2026",
+      "thumbnail": "images/worlddirector-demo.mp4",
+      "media_type": "video",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2607.02517",
+        "code": "https://github.com/pPetrichor/WorldDirector",
+        "github": "pPetrichor/WorldDirector",
+        "show_stars": false,
+        "project": "https://worlddirector.github.io/"
+      }
+    },
+    {
+      "title": "CameraAnything: Refilming Videos with Arbitrary Camera Control",
+      "authors": ["Yixuan Li*", "Yanhong Zeng*", "Ka Leong Cheng", "Jiayi Zhu", "Hanlin Wang", "Wen Wang", "Yihao Meng", "Hao Ouyang", "Qiuyu Wang", "Yue Yu", "ZiDong Wang", "Yiyuan Zhang", "Yujun Shen", "Dahua Lin"],
+      "author_note": "* Equal contribution.",
+      "venue": "ECCV 2026",
+      "thumbnail": "images/cameraanything-demo.mp4",
+      "media_type": "video",
+      "selected": 1,
+      "award": "Spotlight",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2607.24591",
+        "code": "https://github.com/yixuanli98/CameraAnything",
+        "github": "yixuanli98/CameraAnything",
+        "show_stars": false,
+        "project": "https://yixuanli98.github.io/cameraanything/"
+      }
+    },
+    {
+      "title": "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory",
+      "authors": ["Nan Chen", "Mengqi Huang", "Yihao Meng", "Zhendong Mao"],
+      "venue": "ICCV 2025",
+      "thumbnail": "images/longanimation-demo.mp4",
+      "media_type": "video",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2507.01945",
+        "code": "https://github.com/CN-makers/LongAnimation",
+        "github": "CN-makers/LongAnimation",
+        "project": "https://cn-makers.github.io/long_animation_web/"
+      }
+    },
+    {
+      "title": "TimeColor: Flexible Reference Colorization via Temporal Concatenation",
+      "authors": ["Bryan Constantine Sadihin", "Yihao Meng", "Michael Hua Wang", "Matteo Jiahao Chen", "Hang Su"],
+      "venue": "ICME 2026",
+      "thumbnail": "images/timecolor-demo.mp4",
+      "media_type": "video",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2601.00296",
+        "code": "https://github.com/bconstantine/TimeColor",
+        "github": "bconstantine/TimeColor",
+        "show_stars": false,
+        "project": "https://bconstantine.github.io/TimeColor/"
+      }
+    },
+    {
+      "title": "The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text",
+      "authors": ["Hanlin Wang", "Hao Ouyang", "Qiuyu Wang", "Yue Yu", "Yihao Meng", "Wen Wang", "Ka Leong Cheng", "Shuailei Ma", "Qingyan Bai", "Yixuan Li", "Cheng Chen", "Yanhong Zeng", "Xing Zhu", "Yujun Shen", "Qifeng Chen"],
+      "venue": "Preprint, 2025",
+      "thumbnail": "images/world_canvas.gif",
+      "media_type": "image",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2512.16924",
+        "code": "https://github.com/pPetrichor/WorldCanvas",
+        "github": "pPetrichor/WorldCanvas",
+        "project": "https://worldcanvas.github.io/"
+      }
+    },
+    {
+      "title": "PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis",
+      "authors": ["Simret Araya Gebreegziabher*", "Zheng Zhang*", "Xiaohang Tang", "Yihao Meng", "Elena Glassman", "Toby Jia-Jun Li"],
+      "author_note": "* Equal contribution.",
+      "venue": "CHI 2023",
+      "thumbnail": "images/patat-teaser.png",
+      "media_type": "image",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://glassmanlab.seas.harvard.edu/papers/patat_CHI23.pdf",
+        "code": "https://github.com/SimretA/PaTAT-pattern-based-thematic-annotation-tool",
+        "github": "SimretA/PaTAT-pattern-based-thematic-annotation-tool",
+        "show_stars": false,
+        "project": "https://notredamehci.github.io/publications/2023-chi-patat.html"
+      }
+    }
+  ]
+}
