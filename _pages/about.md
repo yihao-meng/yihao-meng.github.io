@@ -15,7 +15,8 @@ During my Ph.D., I previously interned at Ant Research (LingBot), mentored by <a
 My research interests lie in video generation and world models. 
 
 # 🔥 News
-- *May 12, 2026*: Our paper <a href="https://holo-cine.github.io/">CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</a>   has  been released. Project page: <a href="https://yihao-meng.github.io/CausalCine/">here</a>.
+- *Sep 2026*: Our paper <a href="https://yihao-meng.github.io/CausalCine/">CausalCine</a> was accepted to NeurIPS 2026.
+- *May 12, 2026*: Our paper <a href="https://yihao-meng.github.io/CausalCine/">CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</a> was released.
 - *May 2026*: I joined NVIDIA as a Research Scientist Intern, led by <a href="https://scholar.google.com/citations?user=CUlqK5EAAAAJ&hl=en">Prof. Sanja Fidler</a>.
 - *Apr 9, 2026*: Our paper <a href="https://holo-cine.github.io/">HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives</a>   has  been selected as CVPR 2026 <span style="color: red;">Highlight</span>.
 - *Jan 29, 2026*: We release <a href="https://technology.robbyant.com/lingbot-world">LingBot-World</a>, a top-tier open-source world model.
@@ -36,7 +37,7 @@ My research interests lie in video generation and world models.
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/causalcine_3x.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/causalcine_3x.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2>CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives</h2> 
@@ -44,7 +45,7 @@ My research interests lie in video generation and world models.
 **Yihao Meng\***, Zichen Liu\*, Hao Ouyang, Qiuyu Wang, Ka Leong Cheng, Yue Yu, Hanlin Wang, Haobo Li, Jiapeng Zhu, Yanhong Zeng, Xing Zhu, Yujun Shen, Qifeng Chen, Huamin Qu
 
 
-<div class="periodical"><em>Preprint</em>
+<div class="periodical"><em>NeurIPS 2026</em>
 </div>
 
   <p>
